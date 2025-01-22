@@ -1,11 +1,6 @@
-Domino SQL Insights 🚀
-<br><br>
-Analyzed a pizza dataset using advanced SQL techniques to uncover key business insights:
-<br><br>
-•  Identified top-performing pizza types by revenue and quantity.
-<br>
-• Examined time-based order patterns and category-wise distributions.
-<br>
-•  Utilized joins, aggregate functions, and window functions for comprehensive analysis.
-<br><br>
-Datasets are located in a folder in the same repository along with a pdf and a SQL query file
+# Data Analysis Projects  
+A collection of projects showcasing data analysis skills using SQL and other tools. Each project dives into datasets to uncover meaningful insights, demonstrating expertise in data manipulation, querying, and visualization.
+### Repository Highlights:
+- Advanced SQL queries to analyze real-world datasets.  
+- Techniques include **joins, aggregate functions, window functions**, and more.  
+- Projects span domains like sales analysis, customer behavior, and revenue trends.  
